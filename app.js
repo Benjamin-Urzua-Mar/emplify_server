@@ -11,11 +11,10 @@ db().finally(() => {
     const server = createServer(app)
     const io = new Server(server, {
         cors: {
-            origin: "https://dashing-croquembouche-08f896.netlify.app/"
+            origin: "http://0.0.0.0"
         }
     })
     app.use(cors()) //CORS
-
 
     io.on('connection', (socket) => {
         socket.on("clienteJoin", async room => {
@@ -66,8 +65,8 @@ db().finally(() => {
     app.use("/", routes) //IMPLEMENTANDO LAS RUTAS
 
 
-    server.listen(8080, () => {
-        console.log("Servidor corriendo http://localhost:8080/")
+    server.listen(4000, () => {
+        console.log("Servidor corriendo http://127.0.0.0:4000/")
     })
 
 
