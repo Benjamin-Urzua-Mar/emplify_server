@@ -11,7 +11,7 @@ db().finally(() => {
     const server = createServer(app)
     const io = new Server(server, {
         cors: {
-            origin: "http://0.0.0.0"
+            origin: "https://emplify.burzua.lat/"
         }
     })
     app.use(cors()) //CORS
