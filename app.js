@@ -11,7 +11,7 @@ db().finally(() => {
     const server = createServer(app)
     const io = new Server(server, {
         cors: {
-            origin: "https://emplify.burzua.lat/"
+            origin: "https://burzuam.dpdns.org"
         }
     })
     app.use(cors()) //CORS
@@ -52,7 +52,6 @@ db().finally(() => {
 
     })
 
-
     app.use(express.urlencoded({ extended: true }))
     app.use(express.json())
     app.use("/resources/images", express.static('resources/images'))
@@ -64,10 +63,7 @@ db().finally(() => {
 
     app.use("/", routes) //IMPLEMENTANDO LAS RUTAS
 
-
-    server.listen(4000, () => {
+    server.listen(4000, "127.0.0.1", () => {
         console.log("Servidor corriendo http://127.0.0.0:4000/")
     })
-
-
 })
