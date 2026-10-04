@@ -1,0 +1,8 @@
+[
+    { "nombre": "Climatización", "descripcion": "" },
+    { "nombre": "Construcción", "descripcion": "Albañilería, pintura y remodelaciones" },
+    { "nombre": "Electricidad", "descripcion": "Instalaciones y reparaciones eléctricas" },
+    { "nombre": "Gasfitería", "descripcion": "" },
+    { "nombre": "Informática", "descripcion": "Soporte, redes y desarrollo" },
+    { "nombre": "Mecánica", "descripcion": "Mantención y reparación de vehículos" }
+]
