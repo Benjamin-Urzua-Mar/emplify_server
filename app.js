@@ -5,16 +5,17 @@ const session = require('express-session')
 const routes = require("./src/routes/routes")
 const { Server } = require('socket.io')
 const { createServer } = require('node:http')
+const { corsOrigin } = require('./src/utils/CorsOrigin')
 
 db().finally(() => {
     const app = express()
     const server = createServer(app)
     const io = new Server(server, {
         cors: {
-            origin: "https://burzuam.dpdns.org"
+            origin: corsOrigin //origenes cargados desde la tabla Propiedad (id: CORS_ORIGIN)
         }
     })
-    app.use(cors()) //CORS
+    app.use(cors({ origin: corsOrigin })) //CORS
 
     io.on('connection', (socket) => {
         socket.on("clienteJoin", async room => {
