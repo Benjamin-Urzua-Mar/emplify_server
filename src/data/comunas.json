@@ -1,0 +1,2424 @@
+[
+    {
+        "codigo": "01101",
+        "nombre": "Iquique",
+        "provincia": "Iquique",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01107",
+        "nombre": "Alto Hospicio",
+        "provincia": "Iquique",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01401",
+        "nombre": "Pozo Almonte",
+        "provincia": "Tamarugal",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01402",
+        "nombre": "Camiña",
+        "provincia": "Tamarugal",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01403",
+        "nombre": "Colchane",
+        "provincia": "Tamarugal",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01404",
+        "nombre": "Huara",
+        "provincia": "Tamarugal",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "01405",
+        "nombre": "Pica",
+        "provincia": "Tamarugal",
+        "region": "Tarapacá",
+        "codigoRegion": "01"
+    },
+    {
+        "codigo": "02101",
+        "nombre": "Antofagasta",
+        "provincia": "Antofagasta",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02102",
+        "nombre": "Mejillones",
+        "provincia": "Antofagasta",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02103",
+        "nombre": "Sierra Gorda",
+        "provincia": "Antofagasta",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02104",
+        "nombre": "Taltal",
+        "provincia": "Antofagasta",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02201",
+        "nombre": "Calama",
+        "provincia": "El Loa",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02202",
+        "nombre": "Ollagüe",
+        "provincia": "El Loa",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02203",
+        "nombre": "San Pedro de Atacama",
+        "provincia": "El Loa",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02301",
+        "nombre": "Tocopilla",
+        "provincia": "Tocopilla",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "02302",
+        "nombre": "María Elena",
+        "provincia": "Tocopilla",
+        "region": "Antofagasta",
+        "codigoRegion": "02"
+    },
+    {
+        "codigo": "03101",
+        "nombre": "Copiapó",
+        "provincia": "Copiapó",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03102",
+        "nombre": "Caldera",
+        "provincia": "Copiapó",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03103",
+        "nombre": "Tierra Amarilla",
+        "provincia": "Copiapó",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03201",
+        "nombre": "Chañaral",
+        "provincia": "Chañaral",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03202",
+        "nombre": "Diego de Almagro",
+        "provincia": "Chañaral",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03301",
+        "nombre": "Vallenar",
+        "provincia": "Huasco",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03302",
+        "nombre": "Alto del Carmen",
+        "provincia": "Huasco",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03303",
+        "nombre": "Freirina",
+        "provincia": "Huasco",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "03304",
+        "nombre": "Huasco",
+        "provincia": "Huasco",
+        "region": "Atacama",
+        "codigoRegion": "03"
+    },
+    {
+        "codigo": "04101",
+        "nombre": "La Serena",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04102",
+        "nombre": "Coquimbo",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04103",
+        "nombre": "Andacollo",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04104",
+        "nombre": "La Higuera",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04105",
+        "nombre": "Paiguano",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04106",
+        "nombre": "Vicuña",
+        "provincia": "Elqui",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04201",
+        "nombre": "Illapel",
+        "provincia": "Choapa",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04202",
+        "nombre": "Canela",
+        "provincia": "Choapa",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04203",
+        "nombre": "Los Vilos",
+        "provincia": "Choapa",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04204",
+        "nombre": "Salamanca",
+        "provincia": "Choapa",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04301",
+        "nombre": "Ovalle",
+        "provincia": "Limarí",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04302",
+        "nombre": "Combarbalá",
+        "provincia": "Limarí",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04303",
+        "nombre": "Monte Patria",
+        "provincia": "Limarí",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04304",
+        "nombre": "Punitaqui",
+        "provincia": "Limarí",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "04305",
+        "nombre": "Río Hurtado",
+        "provincia": "Limarí",
+        "region": "Coquimbo",
+        "codigoRegion": "04"
+    },
+    {
+        "codigo": "05101",
+        "nombre": "Valparaíso",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05102",
+        "nombre": "Casablanca",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05103",
+        "nombre": "Concón",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05104",
+        "nombre": "Juan Fernández",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05105",
+        "nombre": "Puchuncaví",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05107",
+        "nombre": "Quintero",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05109",
+        "nombre": "Viña del Mar",
+        "provincia": "Valparaíso",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05201",
+        "nombre": "Isla de Pascua",
+        "provincia": "Isla de Pascua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05301",
+        "nombre": "Los Andes",
+        "provincia": "Los Andes",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05302",
+        "nombre": "Calle Larga",
+        "provincia": "Los Andes",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05303",
+        "nombre": "Rinconada",
+        "provincia": "Los Andes",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05304",
+        "nombre": "San Esteban",
+        "provincia": "Los Andes",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05401",
+        "nombre": "La Ligua",
+        "provincia": "Petorca",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05402",
+        "nombre": "Cabildo",
+        "provincia": "Petorca",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05403",
+        "nombre": "Papudo",
+        "provincia": "Petorca",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05404",
+        "nombre": "Petorca",
+        "provincia": "Petorca",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05405",
+        "nombre": "Zapallar",
+        "provincia": "Petorca",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05501",
+        "nombre": "Quillota",
+        "provincia": "Quillota",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05502",
+        "nombre": "Calera",
+        "provincia": "Quillota",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05503",
+        "nombre": "Hijuelas",
+        "provincia": "Quillota",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05504",
+        "nombre": "La Cruz",
+        "provincia": "Quillota",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05506",
+        "nombre": "Nogales",
+        "provincia": "Quillota",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05601",
+        "nombre": "San Antonio",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05602",
+        "nombre": "Algarrobo",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05603",
+        "nombre": "Cartagena",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05604",
+        "nombre": "El Quisco",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05605",
+        "nombre": "El Tabo",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05606",
+        "nombre": "Santo Domingo",
+        "provincia": "San Antonio",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05701",
+        "nombre": "San Felipe",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05702",
+        "nombre": "Catemu",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05703",
+        "nombre": "Llaillay",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05704",
+        "nombre": "Panquehue",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05705",
+        "nombre": "Putaendo",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05706",
+        "nombre": "Santa María",
+        "provincia": "San Felipe de Aconcagua",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05801",
+        "nombre": "Quilpué",
+        "provincia": "Marga Marga",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05802",
+        "nombre": "Limache",
+        "provincia": "Marga Marga",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05803",
+        "nombre": "Olmué",
+        "provincia": "Marga Marga",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "05804",
+        "nombre": "Villa Alemana",
+        "provincia": "Marga Marga",
+        "region": "Valparaíso",
+        "codigoRegion": "05"
+    },
+    {
+        "codigo": "06101",
+        "nombre": "Rancagua",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06102",
+        "nombre": "Codegua",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06103",
+        "nombre": "Coinco",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06104",
+        "nombre": "Coltauco",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06105",
+        "nombre": "Doñihue",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06106",
+        "nombre": "Graneros",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06107",
+        "nombre": "Las Cabras",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06108",
+        "nombre": "Machalí",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06109",
+        "nombre": "Malloa",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06110",
+        "nombre": "Mostazal",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06111",
+        "nombre": "Olivar",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06112",
+        "nombre": "Peumo",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06113",
+        "nombre": "Pichidegua",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06114",
+        "nombre": "Quinta de Tilcoco",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06115",
+        "nombre": "Rengo",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06116",
+        "nombre": "Requínoa",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06117",
+        "nombre": "San Vicente",
+        "provincia": "Cachapoal",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06201",
+        "nombre": "Pichilemu",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06202",
+        "nombre": "La Estrella",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06203",
+        "nombre": "Litueche",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06204",
+        "nombre": "Marchihue",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06205",
+        "nombre": "Navidad",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06206",
+        "nombre": "Paredones",
+        "provincia": "Cardenal Caro",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06301",
+        "nombre": "San Fernando",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06302",
+        "nombre": "Chépica",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06303",
+        "nombre": "Chimbarongo",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06304",
+        "nombre": "Lolol",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06305",
+        "nombre": "Nancagua",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06306",
+        "nombre": "Palmilla",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06307",
+        "nombre": "Peralillo",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06308",
+        "nombre": "Placilla",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06309",
+        "nombre": "Pumanque",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "06310",
+        "nombre": "Santa Cruz",
+        "provincia": "Colchagua",
+        "region": "Del Libertador Gral. Bernardo O’Higgins",
+        "codigoRegion": "06"
+    },
+    {
+        "codigo": "07101",
+        "nombre": "Talca",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07102",
+        "nombre": "Constitución",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07103",
+        "nombre": "Curepto",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07104",
+        "nombre": "Empedrado",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07105",
+        "nombre": "Maule",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07106",
+        "nombre": "Pelarco",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07107",
+        "nombre": "Pencahue",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07108",
+        "nombre": "Río Claro",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07109",
+        "nombre": "San Clemente",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07110",
+        "nombre": "San Rafael",
+        "provincia": "Talca",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07201",
+        "nombre": "Cauquenes",
+        "provincia": "Cauquenes",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07202",
+        "nombre": "Chanco",
+        "provincia": "Cauquenes",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07203",
+        "nombre": "Pelluhue",
+        "provincia": "Cauquenes",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07301",
+        "nombre": "Curicó",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07302",
+        "nombre": "Hualañé",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07303",
+        "nombre": "Licantén",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07304",
+        "nombre": "Molina",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07305",
+        "nombre": "Rauco",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07306",
+        "nombre": "Romeral",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07307",
+        "nombre": "Sagrada Familia",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07308",
+        "nombre": "Teno",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07309",
+        "nombre": "Vichuquén",
+        "provincia": "Curicó",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07401",
+        "nombre": "Linares",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07402",
+        "nombre": "Colbún",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07403",
+        "nombre": "Longaví",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07404",
+        "nombre": "Parral",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07405",
+        "nombre": "Retiro",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07406",
+        "nombre": "San Javier",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07407",
+        "nombre": "Villa Alegre",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "07408",
+        "nombre": "Yerbas Buenas",
+        "provincia": "Linares",
+        "region": "Del Maule",
+        "codigoRegion": "07"
+    },
+    {
+        "codigo": "08101",
+        "nombre": "Concepción",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08102",
+        "nombre": "Coronel",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08103",
+        "nombre": "Chiguayante",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08104",
+        "nombre": "Florida",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08105",
+        "nombre": "Hualqui",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08106",
+        "nombre": "Lota",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08107",
+        "nombre": "Penco",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08108",
+        "nombre": "San Pedro de la Paz",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08109",
+        "nombre": "Santa Juana",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08110",
+        "nombre": "Talcahuano",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08111",
+        "nombre": "Tomé",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08112",
+        "nombre": "Hualpén",
+        "provincia": "Concepción",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08201",
+        "nombre": "Lebu",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08202",
+        "nombre": "Arauco",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08203",
+        "nombre": "Cañete",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08204",
+        "nombre": "Contulmo",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08205",
+        "nombre": "Curanilahue",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08206",
+        "nombre": "Los Álamos",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08207",
+        "nombre": "Tirúa",
+        "provincia": "Arauco",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08301",
+        "nombre": "Los Ángeles",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08302",
+        "nombre": "Antuco",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08303",
+        "nombre": "Cabrero",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08304",
+        "nombre": "Laja",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08305",
+        "nombre": "Mulchén",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08306",
+        "nombre": "Nacimiento",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08307",
+        "nombre": "Negrete",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08308",
+        "nombre": "Quilaco",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08309",
+        "nombre": "Quilleco",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08310",
+        "nombre": "San Rosendo",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08311",
+        "nombre": "Santa Bárbara",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08312",
+        "nombre": "Tucapel",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08313",
+        "nombre": "Yumbel",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "08314",
+        "nombre": "Alto Biobío",
+        "provincia": "Biobío",
+        "region": "Del Biobío",
+        "codigoRegion": "08"
+    },
+    {
+        "codigo": "09101",
+        "nombre": "Temuco",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09102",
+        "nombre": "Carahue",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09103",
+        "nombre": "Cunco",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09104",
+        "nombre": "Curarrehue",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09105",
+        "nombre": "Freire",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09106",
+        "nombre": "Galvarino",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09107",
+        "nombre": "Gorbea",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09108",
+        "nombre": "Lautaro",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09109",
+        "nombre": "Loncoche",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09110",
+        "nombre": "Melipeuco",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09111",
+        "nombre": "Nueva Imperial",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09112",
+        "nombre": "Padre las Casas",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09113",
+        "nombre": "Perquenco",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09114",
+        "nombre": "Pitrufquén",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09115",
+        "nombre": "Pucón",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09116",
+        "nombre": "Saavedra",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09117",
+        "nombre": "Teodoro Schmidt",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09118",
+        "nombre": "Toltén",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09119",
+        "nombre": "Vilcún",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09120",
+        "nombre": "Villarrica",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09121",
+        "nombre": "Cholchol",
+        "provincia": "Cautín",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09201",
+        "nombre": "Angol",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09202",
+        "nombre": "Collipulli",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09203",
+        "nombre": "Curacautín",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09204",
+        "nombre": "Ercilla",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09205",
+        "nombre": "Lonquimay",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09206",
+        "nombre": "Los Sauces",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09207",
+        "nombre": "Lumaco",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09208",
+        "nombre": "Purén",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09209",
+        "nombre": "Renaico",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09210",
+        "nombre": "Traiguén",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "09211",
+        "nombre": "Victoria",
+        "provincia": "Malleco",
+        "region": "De la Araucanía",
+        "codigoRegion": "09"
+    },
+    {
+        "codigo": "10101",
+        "nombre": "Puerto Montt",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10102",
+        "nombre": "Calbuco",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10103",
+        "nombre": "Cochamó",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10104",
+        "nombre": "Fresia",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10105",
+        "nombre": "Frutillar",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10106",
+        "nombre": "Los Muermos",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10107",
+        "nombre": "Llanquihue",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10108",
+        "nombre": "Maullín",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10109",
+        "nombre": "Puerto Varas",
+        "provincia": "Llanquihue",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10201",
+        "nombre": "Castro",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10202",
+        "nombre": "Ancud",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10203",
+        "nombre": "Chonchi",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10204",
+        "nombre": "Curaco de Vélez",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10205",
+        "nombre": "Dalcahue",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10206",
+        "nombre": "Puqueldón",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10207",
+        "nombre": "Queilén",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10208",
+        "nombre": "Quellón",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10209",
+        "nombre": "Quemchi",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10210",
+        "nombre": "Quinchao",
+        "provincia": "Chiloé",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10301",
+        "nombre": "Osorno",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10302",
+        "nombre": "Puerto Octay",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10303",
+        "nombre": "Purranque",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10304",
+        "nombre": "Puyehue",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10305",
+        "nombre": "Río Negro",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10306",
+        "nombre": "San Juan de la Costa",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10307",
+        "nombre": "San Pablo",
+        "provincia": "Osorno",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10401",
+        "nombre": "Chaitén",
+        "provincia": "Palena",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10402",
+        "nombre": "Futaleufú",
+        "provincia": "Palena",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10403",
+        "nombre": "Hualaihué",
+        "provincia": "Palena",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "10404",
+        "nombre": "Palena",
+        "provincia": "Palena",
+        "region": "De los Lagos",
+        "codigoRegion": "10"
+    },
+    {
+        "codigo": "11101",
+        "nombre": "Coihaique",
+        "provincia": "Coihaique",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11102",
+        "nombre": "Lago Verde",
+        "provincia": "Coihaique",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11201",
+        "nombre": "Aysén",
+        "provincia": "Aysén",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11202",
+        "nombre": "Cisnes",
+        "provincia": "Aysén",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11203",
+        "nombre": "Guaitecas",
+        "provincia": "Aysén",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11301",
+        "nombre": "Cochrane",
+        "provincia": "Capitán Prat",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11302",
+        "nombre": "O’Higgins",
+        "provincia": "Capitán Prat",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11303",
+        "nombre": "Tortel",
+        "provincia": "Capitán Prat",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11401",
+        "nombre": "Chile Chico",
+        "provincia": "General Carrera",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "11402",
+        "nombre": "Río Ibáñez",
+        "provincia": "General Carrera",
+        "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+        "codigoRegion": "11"
+    },
+    {
+        "codigo": "12101",
+        "nombre": "Punta Arenas",
+        "provincia": "Magallanes",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12102",
+        "nombre": "Laguna Blanca",
+        "provincia": "Magallanes",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12103",
+        "nombre": "Río Verde",
+        "provincia": "Magallanes",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12104",
+        "nombre": "San Gregorio",
+        "provincia": "Magallanes",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12201",
+        "nombre": "Cabo de Hornos",
+        "provincia": "Antártica Chilena",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12202",
+        "nombre": "Antártica",
+        "provincia": "Antártica Chilena",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12301",
+        "nombre": "Porvenir",
+        "provincia": "Tierra del Fuego",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12302",
+        "nombre": "Primavera",
+        "provincia": "Tierra del Fuego",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12303",
+        "nombre": "Timaukel",
+        "provincia": "Tierra del Fuego",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12401",
+        "nombre": "Natales",
+        "provincia": "Última Esperanza",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "12402",
+        "nombre": "Torres del Paine",
+        "provincia": "Última Esperanza",
+        "region": "Magallanes y de la Antártica Chilena",
+        "codigoRegion": "12"
+    },
+    {
+        "codigo": "13101",
+        "nombre": "Santiago Centro",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13102",
+        "nombre": "Cerrillos",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13103",
+        "nombre": "Cerro Navia",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13104",
+        "nombre": "Conchalí",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13105",
+        "nombre": "El Bosque",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13106",
+        "nombre": "Estación Central",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13107",
+        "nombre": "Huechuraba",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13108",
+        "nombre": "Independencia",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13109",
+        "nombre": "La Cisterna",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13110",
+        "nombre": "La Florida",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13111",
+        "nombre": "La Granja",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13112",
+        "nombre": "La Pintana",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13113",
+        "nombre": "La Reina",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13114",
+        "nombre": "Las Condes",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13115",
+        "nombre": "Lo Barnechea",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13116",
+        "nombre": "Lo Espejo",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13117",
+        "nombre": "Lo Prado",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13118",
+        "nombre": "Macul",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13119",
+        "nombre": "Maipú",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13120",
+        "nombre": "Ñuñoa",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13121",
+        "nombre": "Pedro Aguirre Cerda",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13122",
+        "nombre": "Peñalolén",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13123",
+        "nombre": "Providencia",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13124",
+        "nombre": "Pudahuel",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13125",
+        "nombre": "Quilicura",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13126",
+        "nombre": "Quinta Normal",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13127",
+        "nombre": "Recoleta",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13128",
+        "nombre": "Renca",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13129",
+        "nombre": "San Joaquín",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13130",
+        "nombre": "San Miguel",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13131",
+        "nombre": "San Ramón",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13132",
+        "nombre": "Vitacura",
+        "provincia": "Santiago",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13201",
+        "nombre": "Puente Alto",
+        "provincia": "Cordillera",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13202",
+        "nombre": "Pirque",
+        "provincia": "Cordillera",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13203",
+        "nombre": "San José de Maipo",
+        "provincia": "Cordillera",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13301",
+        "nombre": "Colina",
+        "provincia": "Chacabuco",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13302",
+        "nombre": "Lampa",
+        "provincia": "Chacabuco",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13303",
+        "nombre": "Tiltil",
+        "provincia": "Chacabuco",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13401",
+        "nombre": "San Bernardo",
+        "provincia": "Maipo",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13402",
+        "nombre": "Buin",
+        "provincia": "Maipo",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13403",
+        "nombre": "Calera de Tango",
+        "provincia": "Maipo",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13404",
+        "nombre": "Paine",
+        "provincia": "Maipo",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13501",
+        "nombre": "Melipilla",
+        "provincia": "Melipilla",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13502",
+        "nombre": "Alhué",
+        "provincia": "Melipilla",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13503",
+        "nombre": "Curacaví",
+        "provincia": "Melipilla",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13504",
+        "nombre": "María Pinto",
+        "provincia": "Melipilla",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13505",
+        "nombre": "San Pedro",
+        "provincia": "Melipilla",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13601",
+        "nombre": "Talagante",
+        "provincia": "Talagante",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13602",
+        "nombre": "El Monte",
+        "provincia": "Talagante",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13603",
+        "nombre": "Isla de Maipo",
+        "provincia": "Talagante",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13604",
+        "nombre": "Padre Hurtado",
+        "provincia": "Talagante",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "13605",
+        "nombre": "Peñaflor",
+        "provincia": "Talagante",
+        "region": "Metropolitana de Santiago",
+        "codigoRegion": "13"
+    },
+    {
+        "codigo": "14101",
+        "nombre": "Valdivia",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14102",
+        "nombre": "Corral",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14103",
+        "nombre": "Lanco",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14104",
+        "nombre": "Los Lagos",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14105",
+        "nombre": "Máfil",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14106",
+        "nombre": "Mariquina",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14107",
+        "nombre": "Paillaco",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14108",
+        "nombre": "Panguipulli",
+        "provincia": "Valdivia",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14201",
+        "nombre": "La Unión",
+        "provincia": "Ranco",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14202",
+        "nombre": "Futrono",
+        "provincia": "Ranco",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14203",
+        "nombre": "Lago Ranco",
+        "provincia": "Ranco",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "14204",
+        "nombre": "Río Bueno",
+        "provincia": "Ranco",
+        "region": "De los Ríos",
+        "codigoRegion": "14"
+    },
+    {
+        "codigo": "15101",
+        "nombre": "Arica",
+        "provincia": "Arica",
+        "region": "Arica y Parinacota",
+        "codigoRegion": "15"
+    },
+    {
+        "codigo": "15102",
+        "nombre": "Camarones",
+        "provincia": "Arica",
+        "region": "Arica y Parinacota",
+        "codigoRegion": "15"
+    },
+    {
+        "codigo": "15201",
+        "nombre": "Putre",
+        "provincia": "Parinacota",
+        "region": "Arica y Parinacota",
+        "codigoRegion": "15"
+    },
+    {
+        "codigo": "15202",
+        "nombre": "General Lagos",
+        "provincia": "Parinacota",
+        "region": "Arica y Parinacota",
+        "codigoRegion": "15"
+    },
+    {
+        "codigo": "16101",
+        "nombre": "Chillán",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16102",
+        "nombre": "Bulnes",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16103",
+        "nombre": "Chillán Viejo",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16104",
+        "nombre": "El Carmen",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16105",
+        "nombre": "Pemuco",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16106",
+        "nombre": "Pinto",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16107",
+        "nombre": "Quillón",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16108",
+        "nombre": "San Ignacio",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16109",
+        "nombre": "Yungay",
+        "provincia": "Diguillín",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16201",
+        "nombre": "Quirihue",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16202",
+        "nombre": "Cobquecura",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16203",
+        "nombre": "Coelemu",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16204",
+        "nombre": "Ninhue",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16205",
+        "nombre": "Portezuelo",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16206",
+        "nombre": "Ránquil",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16207",
+        "nombre": "Treguaco",
+        "provincia": "Itata",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16301",
+        "nombre": "San Carlos",
+        "provincia": "Punilla",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16302",
+        "nombre": "Coihueco",
+        "provincia": "Punilla",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16303",
+        "nombre": "Ñiquén",
+        "provincia": "Punilla",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16304",
+        "nombre": "San Fabián",
+        "provincia": "Punilla",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    },
+    {
+        "codigo": "16305",
+        "nombre": "San Nicolás",
+        "provincia": "Punilla",
+        "region": "Ñuble",
+        "codigoRegion": "16"
+    }
+]
