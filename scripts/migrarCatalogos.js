@@ -5,8 +5,7 @@ const mongoose = require("mongoose")
 const conectarBaseDatos = require("../src/config/database")
 const Comuna = require("../src/models/Comuna")
 const Rubro = require("../src/models/Rubro")
-const comunas = require("../src/data/comunas.json")
-const rubros = require("../src/data/rubros.json")
+const { cargarCatalogos } = require("./lib/catalogos")
 
 const SIMULACION = process.argv.includes("--dry-run")
 const COLACION_ES = { locale: "es", strength: 1 }
@@ -15,17 +14,6 @@ const REFERENCIAS = [
     { campo: "comuna", modelo: Comuna },
     { campo: "rubro", modelo: Rubro }
 ]
-
-const cargarCatalogos = async () => {
-    await Comuna.bulkWrite(comunas.map(comuna => ({
-        updateOne: { filter: { codigo: comuna.codigo }, update: { $set: comuna }, upsert: true }
-    })))
-    await Rubro.bulkWrite(rubros.map(({ nombre, descripcion }) => ({
-        updateOne: { filter: { nombre }, update: { $setOnInsert: { nombre, descripcion } }, upsert: true }
-    })))
-    await Promise.all([Comuna.syncIndexes(), Rubro.syncIndexes()])
-    console.log(`Catálogos: ${await Comuna.countDocuments()} comunas, ${await Rubro.countDocuments()} rubros`)
-}
 
 // Devuelve las actualizaciones a aplicar y los valores que no existen en el catalogo
 const planificarEspecialistas = async especialistas => {
